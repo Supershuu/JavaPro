@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>JavaPro</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.5.12</version>
+    </parent>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <java.version>1.8</java.version>
+        <snowy.version>2.0.0</snowy.version>
+        <spring-framework.version>5.3.26</spring-framework.version>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <!-- 锁定依赖版本号 -->
+        <ali.oss.version>3.14.0</ali.oss.version>
+        <aliyun.sdk.dm.version>3.3.1</aliyun.sdk.dm.version>
+        <aliyun.sdk.dysmsapi.version>2.0.9</aliyun.sdk.dysmsapi.version>
+        <aliyun.sdk.ecs.version>3.1.0</aliyun.sdk.ecs.version>
+        <bcprov.jdk15on.version>1.70</bcprov.jdk15on.version>
+        <beetl.version>1.2.40.Beetl.RELEASE</beetl.version>
+        <checker.qual.version>3.31.0</checker.qual.version>
+        <commons.beanutils.version>1.9.4</commons.beanutils.version>
+        <commons.compress.version>1.22</commons.compress.version>
+        <commons.pool2.version>2.11.1</commons.pool2.version>
+        <druid.version>1.2.9</druid.version>
+        <dynamic.datasource.version>3.5.1</dynamic.datasource.version>
+        <easy.trans.version>2.1.7</easy.trans.version>
+        <easyexcel.version>3.2.1</easyexcel.version>
+        <easypoi.version>4.3.0</easypoi.version>
+        <fastjson.version>2.0.24</fastjson.version>
+        <gson.version>2.8.9</gson.version>
+        <guava.version>31.1-jre</guava.version>
+        <hutool.version>5.8.12</hutool.version>
+        <ip2region.version>2.6.3</ip2region.version>
+        <jackson.annotations.version>2.14.2</jackson.annotations.version>
+        <jackson.core.version>2.14.2</jackson.core.version>
+        <jackson.databind.version>2.14.2</jackson.databind.version>
+        <jackson.datatype.jdk8.version>2.14.2</jackson.datatype.jdk8.version>
+        <jackson.datatype.jsr310.version>2.14.2</jackson.datatype.jsr310.version>
+        <jackson.module.parameter.names.version>2.14.2</jackson.module.parameter.names.version>
+        <javax.mail.version>1.6.2</javax.mail.version>
+        <jettison.version>1.5.4</jettison.version>
+        <junit.version>4.13.2</junit.version>
+        <just.auth.version>1.16.5</just.auth.version>
+        <knife4j.version>2.0.9</knife4j.version>
+        <logback.classic.version>1.2.0</logback.classic.version>
+        <lombok.versin>1.18.22</lombok.versin>
+        <minio.version>8.5.2</minio.version>
+        <mssql.connector.java.version>9.2.1.jre8</mssql.connector.java.version>
+        <mybatis.plus.version>3.5.3.1</mybatis.plus.version>
+        <mybatis.version>3.5.10</mybatis.version>
+        <mysql.connector.java.version>8.0.28</mysql.connector.java.version>
+        <netty.common.version>4.1.89.Final</netty.common.version>
+        <netty.handler.version>4.1.89.Final</netty.handler.version>
+        <okhttp3.version>4.10.0</okhttp3.version>
+        <okio.version>3.3.0</okio.version>
+        <dm.connector.java.version>8.1.2.192</dm.connector.java.version>
+        <kingbase.connector.java.version>8.6.0</kingbase.connector.java.version>
+        <oracle.connector.java.version>21.5.0.0</oracle.connector.java.version>
+        <oracle.nls.orai18n.version>19.7.0.0</oracle.nls.orai18n.version>
+        <oshi.core.version>6.2.2</oshi.core.version>
+        <pinyin.version>2.5.1</pinyin.version>
+        <postgres.connector.java.version>42.2.25</postgres.connector.java.version>
+        <protobuf.java.version>3.21.12</protobuf.java.version>
+        <sa.token.version>1.31.0</sa.token.version>
+        <smcrypto.version>0.3.2</smcrypto.version>
+        <snakeyaml.version>2.0</snakeyaml.version>
+        <spring.context.version>5.3.19</spring.context.version>
+        <spring.security.crypto.version>6.0.2</spring.security.crypto.version>
+        <springfox.swagger2.version>2.10.5</springfox.swagger2.version>
+        <ten.cos.version>5.6.68</ten.cos.version>
+        <ten.sdk.ses.version>3.1.455</ten.sdk.ses.version>
+        <ten.sdk.sms.version>3.1.455</ten.sdk.sms.version>
+        <tomcat.embed.core.version>9.0.72</tomcat.embed.core.version>
+    </properties>
+
+</project>
