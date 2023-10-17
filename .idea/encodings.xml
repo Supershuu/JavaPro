@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/demo-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-plugin-api/demo-plugin-auth-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-plugin-api/demo-plugin-auth-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-plugin-api/demo-plugin-biz-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-plugin-api/demo-plugin-biz-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-plugin-api/demo-plugin-client-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-plugin-api/demo-plugin-client-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-plugin-api/demo-plugin-dev-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-plugin-api/demo-plugin-gen-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-plugin-api/demo-plugin-gen-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-plugin-api/demo-plugin-mobile-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-plugin-api/demo-plugin-mobile-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-plugin-api/demo-plugin-sys-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-plugin-api/demo-plugin-sys-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-plugin-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-plugin-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-plugin/demo-plugin-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-plugin/demo-plugin-biz-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-plugin/demo-plugin-biz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-plugin/demo-plugin-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-plugin/demo-plugin-dev/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-plugin/demo-plugin-gen/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-plugin/demo-plugin-mobile/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-plugin/demo-plugin-sys/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-plugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-plugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-web-app/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>

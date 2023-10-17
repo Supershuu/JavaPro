@@ -1,0 +1,22 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.example</groupId>
+        <artifactId>java</artifactId>
+        <version>2.0.0</version>
+    </parent>
+    <artifactId>demo-plugin</artifactId>
+    <packaging>pom</packaging>
+    <name>demo-plugin</name>
+    <description>插件模块</description>
+    <modules>
+        <module>demo-plugin-auth</module>
+        <module>demo-plugin-biz</module>
+        <module>demo-plugin-client</module>
+        <module>demo-plugin-dev</module>
+        <module>demo-plugin-gen</module>
+        <module>demo-plugin-mobile</module>
+        <module>demo-plugin-sys</module>
+    </modules>
+</project>
